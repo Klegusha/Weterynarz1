@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weterynarz</string>
+    <string name="wizyta_u_weterynarza">Wizyta u weterynarza</string>
+    <string name="gatunek">Gatunek</string>
+    <string name="ile_ma_lat">Ile ma lat?</string>
+    <string name="cel_wizyty">Cel wizyty</string>
+    <string name="ok">OK</string>
+    <string name="_16_00">16:00</string>
+</resources>
